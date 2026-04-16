@@ -1,3 +1,0 @@
-Files taken from:
-
-https://www.kaggle.com/datasets/thedevastator/formula-one-racing-a-comprehensive-data-analysis/
